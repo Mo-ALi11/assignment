@@ -1,0 +1,15 @@
+.title {
+    text-align: center; 
+    color: #fd4b0d;
+    font-size: 2.2em;
+    font-weight: 800;
+    margin-bottom: 30px;
+}
+
+.center {
+    padding: 200px;
+}
+.projects {
+    background-color: #303b44;
+    height: 811px;
+}

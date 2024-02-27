@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+.nav-bar {
+    padding: 25px;
+    height: 100px;
+    background-color:#5a767a;
+}
+.nav-bar .logo {
+    color: #ff4b0d;
+    font-weight: 800;
+    font-size: 38px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    float: left;
+    margin-left: 60px;
+}
+
+.nav-bar .links {
+    font-weight: 700;
+    font-size: 26px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    float: right;
+    
+}
+
+.nav-bar .links a {
+    color: #ff4b0d;
+    text-decoration: none;
+    margin-right: 20px;
+}

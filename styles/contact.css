@@ -1,0 +1,39 @@
+.title {
+    text-align: center; /* Center align the text */
+    color: #fd4b0d;
+    font-size: 2.2em;
+    font-weight: 800;
+    margin-bottom: 30px;
+}
+
+.contact-details {
+    background-color: #303b44;
+    height: 811px;
+}
+
+.card {
+    background-color: #fff;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+}
+
+.info h3 {
+    color: #333;
+    font-size: 1.2em;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.info p {
+    color: #666;
+    font-size: 1em;
+    margin-bottom: 0;
+}
+
+.content {
+    width: 600px;
+    height: auto;
+    margin: 0 auto;
+}

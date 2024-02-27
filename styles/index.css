@@ -1,0 +1,33 @@
+
+
+.hero {
+    background-image: url('./139294_original_5600x3152.jpg');
+    height: 811px;
+    width: auto;
+    background-size: cover;
+    overflow: auto; 
+}
+
+.hero h1 {
+    color: aliceblue;
+    font-weight: 700;
+    font-size: 42px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    float: left; 
+    padding-top: 200px;
+    padding-left: 360px;
+}
+.big-text {
+    font-size: 62px;
+    color: #c14e2a;
+}
+
+.main-img {
+    float: right;  
+    margin-right: 240px; 
+    width: 400px;
+    height: auto;
+    margin-top: 160px; 
+    box-sizing: border-box;
+    border-radius: 20px;
+}
